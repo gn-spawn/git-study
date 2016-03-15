@@ -25,4 +25,4 @@
 
 ## Githubのアカウントの用意
 説明するのが大変なので、各自[ここ](http://qiita.com/kooohei/items/361da3c9dbb6e0c7946b)を参考にしてください。
-もし躓いたり、分からなかった場合は[@gn_spawn]('https://twitter.com/gn_spawn')に聞いてください。
+もし躓いたり、分からなかった場合は[@gn_spawn](https://twitter.com/gn_spawn)に聞いてください。
