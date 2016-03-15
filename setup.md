@@ -7,7 +7,9 @@
 ## gitのセットアップ
 ### Windowsの方
 [git for Windowsのサイト]('https://git-for-windows.github.io/')からダウンロードしてインストールしておいてください。
+
 インストール手順
+
 1. _Select Components_ はデフォルトのままで結構です。(git GUIはチェックを外しても大丈夫です。)
 2. _Adjusting your PATH environment_ はRun Git from the Windows Command Promptを選択してください。
 3. _Configuring the line ending conversions_ はデフォルトのままで結構です。
