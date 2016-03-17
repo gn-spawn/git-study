@@ -25,7 +25,9 @@
 
 ## GitHubのアカウントの用意
 説明するのが大変なので、各自[ここ](http://qiita.com/kooohei/items/361da3c9dbb6e0c7946b)を参考にしてください。
+
 なお、自身のPCをgithubに連携するためにSSH KeyをGitHubに登録する必要があります。
+当日のハンズオンで説明しますが、もし余力のある方は
 [この記事](http://qiita.com/shizuma/items/2b2f873a0034839e47ce)を参考に設定を行ってください。
 もし躓いたり、分からなかった場合は、遠慮せず[@gn_spawn](https://twitter.com/gn_spawn)に聞いてください。
 
