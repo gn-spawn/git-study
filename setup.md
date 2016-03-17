@@ -18,11 +18,15 @@
 [このブログ](http://opcdiary.net/?page_id=27065)を参考にすると良いかもしれません。
 
 ### Macの人
-- brew install git でもしてください。
+- brew install git あたりを実行してください。
 
 ### Linuxの人
-- 知るかバカ
+- 調べてください。
 
-## Githubのアカウントの用意
+## GitHubのアカウントの用意
 説明するのが大変なので、各自[ここ](http://qiita.com/kooohei/items/361da3c9dbb6e0c7946b)を参考にしてください。
-もし躓いたり、分からなかった場合は[@gn_spawn](https://twitter.com/gn_spawn)に聞いてください。
+なお、自身のPCをgithubに連携するためにSSH KeyをGitHubに登録する必要があります。
+[この記事](http://qiita.com/shizuma/items/2b2f873a0034839e47ce)を参考に設定を行ってください。
+もし躓いたり、分からなかった場合は、遠慮せず[@gn_spawn](https://twitter.com/gn_spawn)に聞いてください。
+
+
